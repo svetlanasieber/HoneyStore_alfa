@@ -1,0 +1,44 @@
+- Areas/
+   - Admin/
+      - Controllers/
+      - Views/
+      - Models/
+   - User/
+      - Controllers/
+      - Views/
+      - Models/
+- Controllers/
+   - HomeController.cs
+   - ProductController.cs
+   - CartController.cs
+   - OrderController.cs
+   - AccountController.cs
+- Models/
+   - Product.cs
+   - Order.cs
+   - User.cs
+   - Category.cs
+   - Review.cs
+- Views/
+   - Home/
+   - Product/
+   - Cart/
+   - Order/
+   - Shared/
+      - _Layout.cshtml
+      - _AdminLayout.cshtml
+- Data/
+   - ApplicationDbContext.cs
+- Services/
+   - ProductService.cs
+   - OrderService.cs
+   - UserService.cs
+- Middleware/
+- wwwroot/
+   - css/
+   - js/
+   - images/
+- Tests/
+   - UnitTests/
+      - ProductServiceTests.cs
+      - OrderServiceTests.cs
