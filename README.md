@@ -27,4 +27,15 @@ USERS and rools: ASP.NET Identity
 IDE: Visual Studio 2022 
 -------------------------------------------------------
 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+Client-side error handling and data validation: JavaScript + Bootstrap
+---------------------------------------------------------------------------------------
+Server-side error handling and data validation: ASP.NET Core Data Annotations
+---------------------------------------------------------------------------------------
+Custom views should be created for the following responses:
+
+#404 Not Found
+#500 Internal Server Error
 
