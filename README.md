@@ -36,9 +36,9 @@ Validation: Server-side и Client-side
 ------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------
 
-Client-side error handling and data validation: JavaScript + Bootstrap
+Client-side Error Handling and Data validation: JavaScript + Bootstrap
 ---------------------------------------------------------------------------------------
-Server-side error handling and data validation: ASP.NET Core Data Annotations
+Server-side Error Handling and Data validation: ASP.NET Core Data Annotations
 ---------------------------------------------------------------------------------------
 Custom views should be created for the following responses:
 ------------------------------------------------------------------
